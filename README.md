@@ -1,4 +1,4 @@
-# walmart-sales-profitability-dashboard-excel
+# Walmart Sales & Profitability Dashboard (Excel)
 ## 📌 Project Overview
 
 This project analyzes Walmart sales data using Microsoft Excel to identify revenue trends, profitability, regional performance, seasonal demand, and product performance.
