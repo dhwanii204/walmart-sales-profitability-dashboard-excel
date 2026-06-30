@@ -34,9 +34,7 @@ Walmart management wants to understand:
 
 ## 📈 Dashboard Preview
 
-> *(Upload your dashboard screenshot as `dashboard.png` and GitHub will display it.)*
-
-![Dashboard](dashboard.png)
+> <img width="900" height="562" alt="Dashboard" src="https://github.com/user-attachments/assets/fe548956-5552-4497-9759-55f4f04b272d" />
 
 ---
 
